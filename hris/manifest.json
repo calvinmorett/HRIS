@@ -1,10 +1,10 @@
 {
   "name": "HRIS - High Res Image Search",
   "version": "1.0",
-  "description": "Google has removed some functionality for image searches, this extension will bring back this key functionality back.",
+  "description": "Google has removed some functionality for image searches, this extension will bring back this key functionality.",
   "browser_action": {
     "default_icon": "img/icon-128.png",
-    "default_title": "Click while actively searching for Images on Google, to show bigger sizes if available"
+    "default_title": "Click while actively searching for Images on Google, to show bigger sizes if they're available"
   },
   "icons": {
     "128": "img/icon-128.png"
