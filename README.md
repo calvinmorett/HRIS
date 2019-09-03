@@ -1,7 +1,7 @@
 ![icon-128](https://github.com/calvinmorett/HRIS/blob/master/hris/img/icon-128.png)
 
 # HRIS
-Google has removed some functionality for image searches, specifically searching 2 and 4 megapixels. This extension will bring back this key functionality, with a single click.
+Google has removed some functionality for image searches, specifically searching 2 and 4 megapixels. With a single click this extension brings back this key functionality to high-res image searches.
 
 ----
 **Setup Instructions:**
