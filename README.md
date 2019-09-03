@@ -14,7 +14,7 @@ Google has removed some functionality for image searches, specifically searching
 - Once you've successfully added the extension through developer mode, you can use the extension.
 - To use the extension go to Google, and search. Click Images to change the search to find images.
 - Then click the extension icon and wait for the page to reload.
-- The page should have added part of Googles API in the URL and reloaded the page, and the results should show up as high resolution, large dimension images.
+- The page should have added part of Googles API in the URL and reloaded the page, and the results should show up above the Large size option, as high resolution images.
 
 ----
 Click the extension icon while actively searching for Google Images, to show bigger sizes, if they're available.
@@ -27,4 +27,4 @@ Click the extension icon while actively searching for Google Images, to show big
 - Add permissions to only allow the extension to be loaded when Google Image Searching.
 - Add to Firefox
 - Set Permissions to use Google Images Only.
-- Set it up so it automatically searches for highest resolution images when Searching for Images.
+- Set it up so it automatically searches for highest resolution images when Searching for Images(toggle enable/disable).
