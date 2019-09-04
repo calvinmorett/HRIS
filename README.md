@@ -19,7 +19,7 @@ Google has removed some user interface pieces for easily filtering image searche
 ----
 Click the extension icon while actively searching for Google Images, to show bigger sizes, if they're available.
 
-![Image description](https://github.com/calvinmorett/HRIS/blob/master/hris.gif)
+![Image description](https://github.com/calvinmorett/HRIS/blob/master/pdf.gif)
 
 ----
 **Future Features**
