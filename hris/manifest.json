@@ -1,10 +1,10 @@
 {
   "name": "HRIS - High Res Image Search",
   "version": "1.0",
-  "description": "Google has removed some functionality for image searches, this extension will bring back this key functionality.",
+  "description": "Google has removed some user interface pieces for easily filtering image searches, specifically searching 2 and 4 megapixels. With a single click this extension brings back a quick way to search high-res image searches."
   "browser_action": {
     "default_icon": "img/icon-128.png",
-    "default_title": "Click while actively searching for Images on Google, to show bigger sizes if they're available"
+    "default_title": "Click on the icon of extension to set the image filter(google image search only) to show bigger sizes if they're available"
   },
   "icons": {
     "128": "img/icon-128.png"
