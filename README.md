@@ -4,16 +4,18 @@
 Google has removed some user interface pieces for easily filtering image searches, specifically searching 2 and 4 megapixels. With a single click this extension brings back a quick way to search high-res image searches.
 
 ----
-**Setup Instructions:**
+**How to Install**
 - To install, enable developer mode in Chrome, by typing `chrome://extensions/` in the address bar.
 - The top right of this page will include a toggle for developer mode, toggle it on now, and you will see more options appear on the left hand side.
 - One of those options is *Load unpacked,* click this and navigate to the **HRIS** folder and select it.
+-- You can also drag and drop the whole folder in there.
 - The extention should be added to your list of extensions on the page, as well as the **HRIS** icon will appear at the top right with other extension icons.
+
 
 **Using the extension:**
 - Once you've successfully added the extension through developer mode, you can use the extension.
 - To use the extension go to Google, and search. Click Images to change the search to find images.
-- Then click the extension icon and wait for the page to reload.
+- Click on the icon of extension to set the filter and wait for the page to reload.
 - The page should have added part of Googles API in the URL and reloaded the page, and the results should show up above the Large size option, as high resolution images.
 
 ----
